@@ -1,12 +1,3 @@
-/**!
- * easyPieChart
- * Lightweight plugin to render simple, animated and retina optimized pie charts
- *
- * @license 
- * @author Robert Fleischmann <rendro87@gmail.com> (http://robert-fleischmann.de)
- * @version 2.1.4
- **/
-
 (function(root, factory) {
     if(typeof exports === 'object') {
         module.exports = factory(require('jquery'));
@@ -133,7 +124,7 @@ var CanvasRenderer = function(el, options) {
   this.getCanvas = function() {
     return canvas;
   };
-  
+
   /**
     * Canvas 2D context 'ctx' accessor
    */

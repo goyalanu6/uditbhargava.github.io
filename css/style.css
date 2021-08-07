@@ -995,6 +995,7 @@ html[xmlns] .slides {
 	color: #FFF;
   background-color: white;
 	margin-bottom: 90px;
+	margin-right: 30px;
 }
 
 .about-section > .title-box {
@@ -1140,7 +1141,8 @@ font-family: "FontAwesome";
 }
 
 .tab1-features .info {
-	margin-left: 60px;
+	/* margin-left: 60px; */
+	margin: 0px 0px 12px;
 }
 
 .tab1-features .info > p {
