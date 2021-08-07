@@ -647,6 +647,7 @@ section {
 	width: 100%;
 	position: fixed;
 	z-index: 99999;
+	background-color: rgba(0, 0, 0);
 }
 
 #main-menu {
@@ -764,7 +765,7 @@ section {
 .small {
     font-size: 20px;
     font-weight: 200;
-    color: #fff;
+    color: #FFF;
     margin: 30px 0px 0px;
     text-transform: uppercase;
 	font-weight: 600;
@@ -804,6 +805,7 @@ section {
 	margin-top: -125px;
 	text-align: center;
 	z-index:999;
+	background-color: rgba(0, 0, 0, 0.4);
 }
 
 .slider-text-wrapper .btn {
@@ -811,6 +813,7 @@ section {
 	border:2px solid #FFF;
 	background:transparent;
 	color:#FFF;
+	background-color: rgba(0, 0, 0, 0.4);
 }
 
 .flex-control-nav {
@@ -2958,12 +2961,10 @@ footer {
 .big {
     font-size: 35px;
     line-height: 52px;
-		color: black;
 }
 
 .small {
     font-size: 19px;
-		color: black;
 }
 
 }
