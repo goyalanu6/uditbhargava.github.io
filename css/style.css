@@ -1678,7 +1678,7 @@ ul.timeline {
 
 .team-items .item {
 	background: #fff;
-	height: auto;
+	height: 280px;
 	font-weight: 300;
 	margin:0px 10px 10px;
 	padding: 15px;
@@ -1956,6 +1956,41 @@ ul.timeline {
 
 .panel-group .panel-body {
 	border: none;
+}
+
+.services-1 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-2 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-3 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-4 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-5 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-6 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
+}
+
+.services-7 > ul > li {
+	font-size: 15px;
+	line-height: 20px;
 }
 
 #accordion .accordion-toggle:after {
