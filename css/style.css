@@ -1665,8 +1665,16 @@ ul.timeline {
 	padding:130px 0px 130px;
 }
 
-.team-info > p {
+.team-info-p1 > p {
 	color: white;
+	margin-left: 12px;
+	margin-right: 12px;
+}
+
+.team-info-p2 > p {
+	color: white;
+	margin-left: 12px;
+	margin-right: 12px;
 }
 
 .team-items {
