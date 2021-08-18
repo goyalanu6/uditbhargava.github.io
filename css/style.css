@@ -743,6 +743,18 @@ section {
 	color: white;
 }
 
+@media (max-width:480px) {
+	.logo-nav h3 {
+		margin-top: 12px;
+		font-size: 15px;
+	}
+
+	.logo-nav h4 {
+		margin-top: 12px;
+		font-size: 15px;
+	}
+}
+
 /*-----------------------------------------------------------------*/
 /* Slider
 /*-----------------------------------------------------------------*/
